@@ -1,0 +1,36 @@
+{
+  "ads_enabled": true,
+  "min_version_code": 0,
+  "fetch_interval_h": 6,
+
+  "native_home": false,
+  "native_refresh_s": 300,
+
+  "interstitial_enabled": true,
+  "interstitial_free_downloads": 2,
+  "interstitial_every_downloads": 3,
+  "fullscreen_gap_s": 60,
+  "interstitial_on_player_exit": false,
+  "player_exit_min_watch_s": 30,
+
+  "app_open_enabled": true,
+  "app_open_min_background_s": 240,
+  "app_open_after_player": false,
+  "app_open_after_share": false,
+  "app_open_skip_first_session": true,
+  "app_open_on_launch": true,
+  "app_open_launch_wait_s": 3,
+
+  "rewarded_enabled": true,
+  "reward_downloads": 4,
+  "reward_skips_app_open": true,
+  "rewarded_starts_cooldown": true,
+
+  "review_prompt_enabled": true,
+  "review_after_downloads": 3,
+
+  "promo_instantdownload_enabled": true,
+  "promo_instantdownload_interval_h": 24,
+
+  "blocked_hosts": []
+}
