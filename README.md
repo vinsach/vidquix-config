@@ -1,0 +1,2 @@
+# vidquix-config
+Config file
