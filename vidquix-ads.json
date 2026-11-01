@@ -3,9 +3,6 @@
   "min_version_code": 0,
   "fetch_interval_h": 6,
 
-  "native_home": false,
-  "native_refresh_s": 300,
-
   "interstitial_enabled": true,
   "interstitial_free_downloads": 2,
   "interstitial_every_downloads": 3,
